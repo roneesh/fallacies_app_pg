@@ -1,0 +1,3 @@
+  $(function() {
+    $( ".fallacy-list" ).accordion();
+  });
